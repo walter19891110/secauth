@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <cert.file>
+        <p12.file>/usr/local/ngsp/secauth/cert/jiangsu.p12</p12.file>
+        <pubkey.dir>/usr/local/ngsp/secauth/cert</pubkey.dir>
+    </cert.file>
+</configuration>
